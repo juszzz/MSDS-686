@@ -1,0 +1,11 @@
+name: msds-686
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel=6.22.0
+  - matplotlib=3.7.1
+  - numpy=1.24.2
+  - pip=22.3.1
+  - python=3.10.8
+  - tensorflow=2.11.0
